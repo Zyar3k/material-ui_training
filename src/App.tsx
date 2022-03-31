@@ -3,6 +3,7 @@ import MuiDrawer from "./components/MuiDrawer";
 // import MuiBreadcrumbs from "./components/MuiBreadcrumbs";
 // import MuiLink from "./components/MuiLink";
 import MuiNavbar from "./components/MuiNavbar";
+import MuiSpeedDial from "./components/MuiSpeedDial";
 // import MuiImageList from "./components/MuiImageList";
 // import MuiAccordion from "./components/MuiAccordion";
 // import MuiCard from "./components/MuiCard";
@@ -35,6 +36,7 @@ function App() {
       {/* <MuiImageList /> */}
       <MuiNavbar />
       <MuiDrawer />
+      <MuiSpeedDial />
       {/* <MuiLink /> */}
       {/* <MuiBreadcrumbs /> */}
     </div>
